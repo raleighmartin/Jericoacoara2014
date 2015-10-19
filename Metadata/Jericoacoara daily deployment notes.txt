@@ -1,0 +1,17 @@
+-- Jericoacoara 11/13/14 —-
+SALTATION
+Sporadic errors in U1 ultrasonic (~1 every 58 seconds), perhaps due to sand passing through sensor?
+
+-- Jericoacoara 11/14/14 —-
+SALTATION
+Sporadic errors in U1 ultrasonic (~1 every 15 seconds), perhaps due to sand passing through sensor?
+
+-- Jericoacoara 11/18/14 —-
+NO SALTATION
+Sporadic errors in U1 ultrasonic (~1 every 30 minutes), perhaps due to sand passing through sensor?
+Senix distance sensors work poorly, need to interpolate about 1/3 of all times
+
+-- Jericoacoara 11/20/14 —-
+SALTATION
+Sporadic errors in U1 ultrasonic (~1 every 13 seconds), perhaps due to sand passing through sensor?
+Senix distance sensors work poorly, need to interpolate about 1/3 of all times
