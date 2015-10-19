@@ -17,7 +17,7 @@ load(InterpolatedData_Path);
 ProcessedData_Path = strcat(folder_DataOutput,'ProcessedData_Jericoacoara'); %create path to processed data
 
 %% 1. Process instrument heights
-ProcessedData = ProcessInstrumentHeights(InterpolatedData,InstrumentMetadata);
+ProcessedData = ProcessInstrumentHeights(InterpolatedData);
 
 %% 2. Process BSNE profiles
 FluxBSNE = ProcessBSNEs(WeightBSNE,GrainSize_BSNE);
