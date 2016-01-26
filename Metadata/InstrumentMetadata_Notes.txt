@@ -69,6 +69,7 @@ NO SALTATION
 
 -- Jericoacoara 11/20/14 —-
 SALTATION
+Insufficient number of Wenglors for decent saltation profiles after 11:20 AM, exclude these data
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % INSTRUMENT SERIAL NUMBERS %
