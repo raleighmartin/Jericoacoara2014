@@ -65,7 +65,7 @@ SALTATION
 SALTATION
 
 -- Jericoacoara 11/18/14 —-
-NO SALTATION
+NO SALTATION - BUT SOME COUNTS PICKED UP DO TO SPARSE RAIN.  Therefore, exclude the Wenglor data for this day from analysis.
 
 -- Jericoacoara 11/20/14 —-
 SALTATION

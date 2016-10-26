@@ -9,7 +9,7 @@ folder_DataOutput = '../../../Google Drive/Data/AeolianFieldwork/Processed/'; %f
 folder_ProcessingFunctions = '../../AeolianFieldworkAnalysis/Scripts/Processing/'; %folder for data processing functions
 folder_GeneralFunctions = '../../AeolianFieldworkAnalysis/Scripts/Functions/'; %folder with functions
 addpath(folder_ProcessingFunctions); %point MATLAB to location of processing functions
-%addpath(folder_GeneralFunctions); %point MATLAB to location of general functions
+addpath(folder_GeneralFunctions); %point MATLAB to location of general functions
 
 %load metadata and interpolated data, create path for processed data
 Metadata_Path = strcat(folder_DataOutput,'Metadata_Jericoacoara'); %get path to metadata
